@@ -8,20 +8,4 @@ ImgToSummary is a Python project that extracts text from images, preprocesses th
 - Preprocesses the text using tokenization, lowercasing, punctuation removal, stop word removal, stemming, and lemmatization.
 - Summarizes the text using OpenAI's GPT model.
 
-ImgToSummary/
-│
-├── orc/
-│   ├── __init__.py
-│   ├── image_loader.py
-│
-├── llm/
-│   ├── __init__.py
-│   ├── openai_model.py
-│
-├── preprocessing/
-│   ├── __init__.py
-│   ├── text_preprocessing.py
-│
-├── main.py
-├── .env
 
